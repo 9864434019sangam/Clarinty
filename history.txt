@@ -1,0 +1,2 @@
+#V2
+(contract-call? .Blockpost get-total-posts)
